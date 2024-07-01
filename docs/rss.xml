@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>winston的Blog</title><link>https://winston-y.github.io</link><description>开心分享，交友互动</description><copyright>winston的Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://winston-y.github.io</link></image><lastBuildDate>Mon, 01 Jul 2024 07:30:41 +0000</lastBuildDate><managingEditor>winston的Blog</managingEditor><ttl>60</ttl><webMaster>winston的Blog</webMaster><item><title>windows 软件安装 - choco</title><link>https://winston-y.github.io/post/windows%20-ruan-jian-an-zhuang-%20-%20choco.html</link><description>### choco&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>winston的Blog</title><link>https://winston-y.github.io</link><description>开心分享，交友互动</description><copyright>winston的Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://winston-y.github.io</link></image><lastBuildDate>Mon, 01 Jul 2024 07:37:22 +0000</lastBuildDate><managingEditor>winston的Blog</managingEditor><ttl>60</ttl><webMaster>winston的Blog</webMaster><item><title>windows 软件安装 - choco</title><link>https://winston-y.github.io/post/windows%20-ruan-jian-an-zhuang-%20-%20choco.html</link><description>### choco&#13;
 &#13;
 ```&#13;
 https://community.chocolatey.org/packages&#13;
@@ -11,6 +11,10 @@ https://community.chocolatey.org/packages&#13;
 ```&#13;
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))&#13;
 ```&#13;
+&#13;
+---&#13;
+&#13;
+## 摄影师相关&#13;
 &#13;
 ### 图片处理&#13;
 &#13;
@@ -28,6 +32,14 @@ choco install -y xnview&#13;
 ```&#13;
 choco install -y quicklook icaros potplayer&#13;
 ```&#13;
+&#13;
+&#13;
+&#13;
+- HandBrake&#13;
+```&#13;
+choco install -y handbrake&#13;
+```&#13;
+&#13;
 &#13;
 &#13;
 。</description><guid isPermaLink="true">https://winston-y.github.io/post/windows%20-ruan-jian-an-zhuang-%20-%20choco.html</guid><pubDate>Sun, 30 Jun 2024 10:55:24 +0000</pubDate></item><item><title>测试</title><link>https://winston-y.github.io/post/ce-shi.html</link><description>撒旦发射点发射点发。</description><guid isPermaLink="true">https://winston-y.github.io/post/ce-shi.html</guid><pubDate>Sun, 30 Jun 2024 10:52:41 +0000</pubDate></item></channel></rss>
