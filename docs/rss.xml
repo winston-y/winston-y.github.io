@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>winston的Blog</title><link>https://winston-y.github.io</link><description>开心分享，交友互动</description><copyright>winston的Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://winston-y.github.io</link></image><lastBuildDate>Mon, 01 Jul 2024 07:14:43 +0000</lastBuildDate><managingEditor>winston的Blog</managingEditor><ttl>60</ttl><webMaster>winston的Blog</webMaster><item><title>windows 软件安装 - choco</title><link>https://winston-y.github.io/post/windows%20-ruan-jian-an-zhuang-%20-%20choco.html</link><description>### choco&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>winston的Blog</title><link>https://winston-y.github.io</link><description>开心分享，交友互动</description><copyright>winston的Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://winston-y.github.io</link></image><lastBuildDate>Mon, 01 Jul 2024 07:30:41 +0000</lastBuildDate><managingEditor>winston的Blog</managingEditor><ttl>60</ttl><webMaster>winston的Blog</webMaster><item><title>windows 软件安装 - choco</title><link>https://winston-y.github.io/post/windows%20-ruan-jian-an-zhuang-%20-%20choco.html</link><description>### choco&#13;
 &#13;
 ```&#13;
 https://community.chocolatey.org/packages&#13;
@@ -19,4 +19,15 @@ choco install -y xnview&#13;
 ```&#13;
 &#13;
 &#13;
-### 相机相关。</description><guid isPermaLink="true">https://winston-y.github.io/post/windows%20-ruan-jian-an-zhuang-%20-%20choco.html</guid><pubDate>Sun, 30 Jun 2024 10:55:24 +0000</pubDate></item><item><title>测试</title><link>https://winston-y.github.io/post/ce-shi.html</link><description>撒旦发射点发射点发。</description><guid isPermaLink="true">https://winston-y.github.io/post/ce-shi.html</guid><pubDate>Sun, 30 Jun 2024 10:52:41 +0000</pubDate></item></channel></rss>
+### 相机相关&#13;
+&#13;
+- [icaros](https://github.com/Xanashi/Icaros) 缩略图(10bit 素材缩略图)&#13;
+- quicklook 空格预览&#13;
+- potplayer&#13;
+&#13;
+```&#13;
+choco install -y quicklook icaros potplayer&#13;
+```&#13;
+&#13;
+&#13;
+。</description><guid isPermaLink="true">https://winston-y.github.io/post/windows%20-ruan-jian-an-zhuang-%20-%20choco.html</guid><pubDate>Sun, 30 Jun 2024 10:55:24 +0000</pubDate></item><item><title>测试</title><link>https://winston-y.github.io/post/ce-shi.html</link><description>撒旦发射点发射点发。</description><guid isPermaLink="true">https://winston-y.github.io/post/ce-shi.html</guid><pubDate>Sun, 30 Jun 2024 10:52:41 +0000</pubDate></item></channel></rss>

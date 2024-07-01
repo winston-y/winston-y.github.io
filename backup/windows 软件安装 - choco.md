@@ -19,3 +19,13 @@ choco install -y xnview
 
 
 ### 相机相关
+
+- [icaros](https://github.com/Xanashi/Icaros) 缩略图(10bit 素材缩略图)
+- quicklook 空格预览
+- potplayer
+
+```
+choco install -y quicklook icaros potplayer
+```
+
+
