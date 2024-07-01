@@ -41,3 +41,8 @@ choco install -y handbrake
 
 
 
+### 虚拟机
+
+```
+choco install -y virtualbox
+```
