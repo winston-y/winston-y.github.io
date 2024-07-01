@@ -16,6 +16,16 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 ---
 
+
+
+## 办公软件
+
+- libreoffice-fresh
+```
+choco install -y libreoffice-fresh
+```
+
+
 ## 摄影师相关
 
 ### 图片处理
