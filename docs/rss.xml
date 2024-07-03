@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>winston的Blog</title><link>https://winston-y.github.io</link><description>开心分享，交友互动</description><copyright>winston的Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://winston-y.github.io</link></image><lastBuildDate>Wed, 03 Jul 2024 09:04:38 +0000</lastBuildDate><managingEditor>winston的Blog</managingEditor><ttl>60</ttl><webMaster>winston的Blog</webMaster><item><title>影像后期 &amp; 纸张大小</title><link>https://winston-y.github.io/post/ying-xiang-hou-qi-%20%26%20-zhi-zhang-da-xiao.html</link><description>&#13;
-&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>winston的Blog</title><link>https://winston-y.github.io</link><description>开心分享，交友互动</description><copyright>winston的Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://winston-y.github.io</link></image><lastBuildDate>Wed, 03 Jul 2024 09:12:02 +0000</lastBuildDate><managingEditor>winston的Blog</managingEditor><ttl>60</ttl><webMaster>winston的Blog</webMaster><item><title>影像后期 &amp; 纸张大小</title><link>https://winston-y.github.io/post/ying-xiang-hou-qi-%20%26%20-zhi-zhang-da-xiao.html</link><description>&#13;
 [相片尺寸](https://zh.wikipedia.org/wiki/%E7%9B%B8%E7%89%87%E5%B0%BA%E5%AF%B8)&#13;
 &#13;
 &#13;
@@ -13,7 +12,12 @@
 | 两寸 | Cell | Cell | Cell | Cell |&#13;
 | 五寸 | Cell | Cell | Cell | Cell |&#13;
 | 六寸 | Cell | Cell | Cell | Cell |&#13;
-| 八寸 | Cell | Cell | Cell | Cell | 。</description><guid isPermaLink="true">https://winston-y.github.io/post/ying-xiang-hou-qi-%20%26%20-zhi-zhang-da-xiao.html</guid><pubDate>Wed, 03 Jul 2024 09:01:32 +0000</pubDate></item><item><title>windows 软件安装 - choco</title><link>https://winston-y.github.io/post/windows%20-ruan-jian-an-zhuang-%20-%20choco.html</link><description>[call me](https://github.com/winston-y/winston-y.github.io)&#13;
+| 八寸 | Cell | Cell | Cell | Cell | &#13;
+&#13;
+&#13;
+&#13;
+- 小12寸 ~ A4&#13;
+- 8寸 ~ A5。</description><guid isPermaLink="true">https://winston-y.github.io/post/ying-xiang-hou-qi-%20%26%20-zhi-zhang-da-xiao.html</guid><pubDate>Wed, 03 Jul 2024 09:01:32 +0000</pubDate></item><item><title>windows 软件安装 - choco</title><link>https://winston-y.github.io/post/windows%20-ruan-jian-an-zhuang-%20-%20choco.html</link><description>[call me](https://github.com/winston-y/winston-y.github.io)&#13;
 &#13;
 &#13;
 ### choco&#13;
