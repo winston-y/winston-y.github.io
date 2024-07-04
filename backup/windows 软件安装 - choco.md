@@ -26,6 +26,13 @@ choco install -y libreoffice-fresh
 ```
 
 
+
+- markdown
+```
+choco install -y marktext
+```
+
+
 ## 摄影师相关
 
 ### 图片处理
