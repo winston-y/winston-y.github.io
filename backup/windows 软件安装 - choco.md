@@ -16,6 +16,11 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 ---
 
+#### 音频必备
+
+```
+choco install -y voicemeeter-banana.install
+```
 
 
 ## 办公软件
