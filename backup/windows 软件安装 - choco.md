@@ -60,6 +60,11 @@ choco install -y handbrake
 ```
 
 
+#### Game
+
+```
+choco install -y geforce-experience
+```
 
 ### 虚拟机
 
