@@ -31,6 +31,10 @@ choco install -y libreoffice-fresh
 ```
 
 
+```
+choco install -y autohotkey
+```
+
 
 - markdown
 ```
