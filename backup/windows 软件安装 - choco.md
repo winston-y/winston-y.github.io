@@ -95,3 +95,4 @@ choco install -y virtualbox
 ## Microsoft Store
 
 - Snipaste    截图、存图、编辑
+- sleep waves free 白噪音
