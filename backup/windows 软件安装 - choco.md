@@ -56,6 +56,7 @@ choco install -y marktext
 ```
 choco install -y xnview
 choco install -y digikam
+choco install -y honeyview
 ```
 
 [digikam 照片管理软件](https://www.digikam.org/)
