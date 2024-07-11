@@ -1,6 +1,8 @@
 [call me](https://github.com/winston-y/winston-y.github.io)
 
 
+[EDIT this page](https://github.com/winston-y/winston-y.github.io/issues/2)
+
 ### choco
 
 ```
@@ -30,6 +32,11 @@ choco install -y voicemeeter-banana.install
 choco install -y libreoffice-fresh
 ```
 
+
+```
+choco install -y totalcommander
+choco install -y totalcommanderpowerpack
+```
 
 ```
 choco install -y autohotkey
@@ -81,3 +88,10 @@ choco install -y geforce-experience
 ```
 choco install -y virtualbox
 ```
+
+
+
+
+## Microsoft Store
+
+- Snipaste    截图、存图、编辑
