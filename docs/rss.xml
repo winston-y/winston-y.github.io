@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>winston的Blog</title><link>https://winston-y.github.io</link><description>开心分享，交友互动</description><copyright>winston的Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://winston-y.github.io</link></image><lastBuildDate>Tue, 16 Jul 2024 08:34:44 +0000</lastBuildDate><managingEditor>winston的Blog</managingEditor><ttl>60</ttl><webMaster>winston的Blog</webMaster><item><title>python &amp; pip</title><link>https://winston-y.github.io/post/python%20%26%20pip.html</link><description>&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>winston的Blog</title><link>https://winston-y.github.io</link><description>开心分享，交友互动</description><copyright>winston的Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://winston-y.github.io</link></image><lastBuildDate>Tue, 16 Jul 2024 16:10:06 +0000</lastBuildDate><managingEditor>winston的Blog</managingEditor><ttl>60</ttl><webMaster>winston的Blog</webMaster><item><title>python &amp; pip</title><link>https://winston-y.github.io/post/python%20%26%20pip.html</link><description>&#13;
 jupyter&#13;
 ```&#13;
 pip install jupyterlab&#13;
-```。</description><guid isPermaLink="true">https://winston-y.github.io/post/python%20%26%20pip.html</guid><pubDate>Tue, 16 Jul 2024 04:36:44 +0000</pubDate></item><item><title>影像后期 &amp; 纸张大小</title><link>https://winston-y.github.io/post/ying-xiang-hou-qi-%20%26%20-zhi-zhang-da-xiao.html</link><description>&#13;
+```。</description><guid isPermaLink="true">https://winston-y.github.io/post/python%20%26%20pip.html</guid><pubDate>Tue, 16 Jul 2024 04:36:44 +0000</pubDate></item><item><title>导航</title><link>https://winston-y.github.io/post/dao-hang.html</link><description>[tool.lu](https://tool.lu/)。</description><guid isPermaLink="true">https://winston-y.github.io/post/dao-hang.html</guid><pubDate>Tue, 16 Jul 2024 04:26:04 +0000</pubDate></item><item><title>影像后期 &amp; 纸张大小</title><link>https://winston-y.github.io/post/ying-xiang-hou-qi-%20%26%20-zhi-zhang-da-xiao.html</link><description>&#13;
 [相片尺寸](https://zh.wikipedia.org/wiki/%E7%9B%B8%E7%89%87%E5%B0%BA%E5%AF%B8)&#13;
 &#13;
 &#13;
@@ -21,7 +21,18 @@ pip install jupyterlab&#13;
 &#13;
 &#13;
 - 小12寸 ~ A4&#13;
-- 8寸 ~ A5。</description><guid isPermaLink="true">https://winston-y.github.io/post/ying-xiang-hou-qi-%20%26%20-zhi-zhang-da-xiao.html</guid><pubDate>Wed, 03 Jul 2024 09:01:32 +0000</pubDate></item><item><title>windows 软件安装 - choco</title><link>https://winston-y.github.io/post/windows%20-ruan-jian-an-zhuang-%20-%20choco.html</link><description>&#13;
+- 8寸 ~ A5。</description><guid isPermaLink="true">https://winston-y.github.io/post/ying-xiang-hou-qi-%20%26%20-zhi-zhang-da-xiao.html</guid><pubDate>Wed, 03 Jul 2024 09:01:32 +0000</pubDate></item><item><title>戴森球计划 相关资源</title><link>https://winston-y.github.io/post/dai-sen-qiu-ji-hua-%20-xiang-guan-zi-yuan.html</link><description>### 蓝图&#13;
+&#13;
+https://github.com/DSPBluePrints/FactoryBluePrints&#13;
+&#13;
+&#13;
+### 种子&#13;
+&#13;
+```&#13;
+210307&#13;
+```&#13;
+&#13;
+。</description><guid isPermaLink="true">https://winston-y.github.io/post/dai-sen-qiu-ji-hua-%20-xiang-guan-zi-yuan.html</guid><pubDate>Mon, 01 Jul 2024 07:04:01 +0000</pubDate></item><item><title>windows 软件安装 - choco</title><link>https://winston-y.github.io/post/windows%20-ruan-jian-an-zhuang-%20-%20choco.html</link><description>&#13;
 [notion.site](https://winston-y.notion.site/Winston-WebSite-98800bcc0ab641919dd580db2d2bd307)&#13;
 &#13;
 ```&#13;
@@ -147,4 +158,4 @@ choco install -y virtualbox&#13;
 - sleep waves free 白噪音&#13;
 - Microsoft To Do&#13;
 - uTools (win alfred)&#13;
-- aText (Alfred 中的 Snippets 功能)。</description><guid isPermaLink="true">https://winston-y.github.io/post/windows%20-ruan-jian-an-zhuang-%20-%20choco.html</guid><pubDate>Sun, 30 Jun 2024 10:55:24 +0000</pubDate></item><item><title>测试</title><link>https://winston-y.github.io/post/ce-shi.html</link><description>撒旦发射点发射点发。</description><guid isPermaLink="true">https://winston-y.github.io/post/ce-shi.html</guid><pubDate>Sun, 30 Jun 2024 10:52:41 +0000</pubDate></item></channel></rss>
+- aText (Alfred 中的 Snippets 功能)。</description><guid isPermaLink="true">https://winston-y.github.io/post/windows%20-ruan-jian-an-zhuang-%20-%20choco.html</guid><pubDate>Sun, 30 Jun 2024 10:55:24 +0000</pubDate></item></channel></rss>
