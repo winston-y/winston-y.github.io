@@ -17,6 +17,12 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```
 
 ---
+GNU CASH
+```
+choco install -y gnucash
+```
+
+
 
 #### 音频必备
 
