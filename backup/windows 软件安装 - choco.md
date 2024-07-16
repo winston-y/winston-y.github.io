@@ -26,8 +26,10 @@ GNU CASH
 ```
 choco install -y gnucash
 ```
-
-
+文字片段自动上屏
+```
+choco install espanso
+```
 
 #### 音频必备
 
