@@ -1,11 +1,13 @@
+
+[notion.site](https://winston-y.notion.site/Winston-WebSite-98800bcc0ab641919dd580db2d2bd307)
+
 ```
 choco install -y choco-cleaner
 ```
 
-[[call me](https://github.com/winston-y/winston-y.github.io)](https://github.com/winston-y/winston-y.github.io)
+[call me](https://github.com/winston-y/winston-y.github.io)
 
-[[EDIT this page](https://github.com/winston-y/winston-y.github.io/issues/2)](https://github.com/winston-y/winston-y.github.io/issues/2)
-
+[EDIT this page](https://github.com/winston-y/winston-y.github.io/issues/2)
 ### choco
 
 ```
