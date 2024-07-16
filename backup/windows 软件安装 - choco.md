@@ -1,3 +1,8 @@
+```
+choco install -y choco-cleaner
+```
+
+
 [call me](https://github.com/winston-y/winston-y.github.io)
 
 
