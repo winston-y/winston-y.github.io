@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>winston的Blog</title><link>https://winston-y.github.io</link><description>开心分享，交友互动</description><copyright>winston的Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://winston-y.github.io</link></image><lastBuildDate>Tue, 16 Jul 2024 03:19:00 +0000</lastBuildDate><managingEditor>winston的Blog</managingEditor><ttl>60</ttl><webMaster>winston的Blog</webMaster><item><title>影像后期 &amp; 纸张大小</title><link>https://winston-y.github.io/post/ying-xiang-hou-qi-%20%26%20-zhi-zhang-da-xiao.html</link><description>&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>winston的Blog</title><link>https://winston-y.github.io</link><description>开心分享，交友互动</description><copyright>winston的Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://winston-y.github.io</link></image><lastBuildDate>Tue, 16 Jul 2024 04:37:12 +0000</lastBuildDate><managingEditor>winston的Blog</managingEditor><ttl>60</ttl><webMaster>winston的Blog</webMaster><item><title>python &amp; pip</title><link>https://winston-y.github.io/post/python%20%26%20pip.html</link><description>&#13;
+jupyter&#13;
+```&#13;
+pip install jupyterlab&#13;
+```。</description><guid isPermaLink="true">https://winston-y.github.io/post/python%20%26%20pip.html</guid><pubDate>Tue, 16 Jul 2024 04:36:44 +0000</pubDate></item><item><title>影像后期 &amp; 纸张大小</title><link>https://winston-y.github.io/post/ying-xiang-hou-qi-%20%26%20-zhi-zhang-da-xiao.html</link><description>&#13;
 [相片尺寸](https://zh.wikipedia.org/wiki/%E7%9B%B8%E7%89%87%E5%B0%BA%E5%AF%B8)&#13;
 &#13;
 &#13;
