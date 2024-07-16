@@ -110,3 +110,4 @@ choco install -y virtualbox
 - sleep waves free 白噪音
 - Microsoft To Do
 - uTools (win alfred)
+- aText (Alfred 中的 Snippets 功能)
